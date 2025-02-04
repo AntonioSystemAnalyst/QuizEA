@@ -1,0 +1,11 @@
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\bin\Debug\QuizEA.exe.config
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\bin\Debug\QuizEA.exe
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\bin\Debug\QuizEA.pdb
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\obj\Debug\QuizEA.csproj.AssemblyReference.cache
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\obj\Debug\QuizEA.Form1.resources
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\obj\Debug\QuizEA.Properties.Resources.resources
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\obj\Debug\QuizEA.csproj.GenerateResource.cache
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\obj\Debug\QuizEA.csproj.CoreCompileInputs.cache
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\obj\Debug\QuizEA.exe
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\obj\Debug\QuizEA.pdb
+C:\Users\Orphew\source\repos\QuizEA\QuizEA\obj\Debug\QuizEA.inicio.resources
