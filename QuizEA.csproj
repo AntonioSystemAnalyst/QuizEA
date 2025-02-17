@@ -103,6 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ecology.ico" />
+    <None Include="Resources\PlantaSelecionada.png" />
     <None Include="Resources\capa.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
